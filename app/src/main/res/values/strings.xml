@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">API Server</string>
+    <string name="title_activity_main">API Server</string>
+    <string name="tab_startup">启动日志</string>
+    <string name="tab_errors">报错记录</string>
+    <string name="tab_api_calls">API调用记录</string>
+    <string name="server_started">服务已启动</string>
+    <string name="server_stopped">服务已停止</string>
+</resources>
